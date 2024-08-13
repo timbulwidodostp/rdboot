@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'DEA'rdboot: Robust Bootstrap Method for Sharp and Fuzzy Regression Discontinuity Designs Use rdboot With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rdboot.ado
+f rdboot.sthlp
