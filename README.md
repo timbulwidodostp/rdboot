@@ -3,6 +3,8 @@ Robust Bootstrap Method for Sharp and Fuzzy Regression Discontinuity Designs Use
 
 Executes estimation and robust inference for treatment effects in the sharp and fuzzy mean regression discontinuity designs (RDD) based on multiplier bootstrap and bias correction Use rdboot With STATA 18
 
+https://www.youtube.com/watch?v=qqddPpsbuwA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
